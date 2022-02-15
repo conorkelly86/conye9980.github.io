@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Thor",
+    "position": "Avengers",
+    "image": "/images/heroes/thor.png",
+    "number": 20
+  },
+  {
+    "name": "Captain America",
+    "position": "Avengers",
+    "image": "/images/heroes/captain-america.png",
+    "number": 8
+  },
+  {
+    "name": "Wolverine",
+    "position": "X-Men",
+    "image": "/images/heroes/wolverine.png",
+    "number": 32
+  },
+  {
+    "name": "Rogue",
+    "position": "X-Men",
+    "image": "/images/heroes/rogue.png",
+    "number": 1
+  },
+  {
+    "name": "Batman",
+    "position": "Justice League",
+    "image": "/images/heroes/batman.png",
+    "number": 5
+  },
+  {
+    "name": "Superman",
+    "position": "Justice League",
+    "image": "/images/heroes/superman.png",
+    "number": 4
+  },
+  {
+    "name": "Star Lord",
+    "position": "Guardians of the Galaxy",
+    "image": "/images/heroes/star-lord.png",
+    "number": 66
+  },
+  {
+    "name": "Rocket Raccoon",
+    "position": "Guardians of the Galaxy",
+    "image": "/images/heroes/rocket-raccoon.png",
+    "number": 3
+  }
+]
